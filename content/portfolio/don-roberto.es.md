@@ -13,4 +13,6 @@ songNotes: [
 socialIcons:
   - name: "other"
     url: "https://a-mas.net/espectaculos/don-roberto/"
+  - name: "youtube"
+    url: "https://www.youtube.com/watch?v=SnxOBEk-0HM"
 ---
